@@ -1,0 +1,9 @@
+{
+  "name": "Copy of J.A.R.V.I.S. Interface",
+  "description": "A fully functional, voice-activated J.A.R.V.I.S. interface using Gemini Live API with vision and audio capabilities.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
